@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Navdeep Singh</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
-<hr>
 
 <h3>Connect with me</h3>
 <p>
