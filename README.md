@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3>Connect with me</h3>
 <p>
-<a href="navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/letterboxd.svg" alt="navdeepsingh4298" height="30" width="30" /></a>
+<!-- <a href="navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/letterboxd.svg" alt="navdeepsingh4298" height="30" width="30" /></a> -->
 <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="navdeepsingh4298" height="30" width="30" /></a>
 <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="navdeep_singh4298" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Navdeepsingh4298" height="30" width="30" /></a>
