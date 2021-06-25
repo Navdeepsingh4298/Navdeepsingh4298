@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello Everyone </h2>
-<h1 align="center">I'm Navdeep Singh 🤗</h1>
+<h2 align="center">Hello Everyone 🤗</h2>
+<h1 align="center">I'm Navdeep Singh</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
 - 🔭 I'm a 2nd year undergrad, pursuing Bachelors of Technology in Computer Science.
@@ -38,17 +38,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>
 <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>
 <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>
-<a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail" /></a>
- <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="navdeepsingh4298_github"  /></a>  
- 
+<a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
+<a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="navdeepsingh4298_github"/></a>  
 <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="40" width="40" /></a>
 <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="40" width="40" /></a>
-
 <a href="tel:+919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="40" width="40" /></a>
- <a href="tel:+919582364080" target="_blank"><img align="center" src=" https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-telegram-icon.png" alt="Navdeepsingh4298_telegram" height="40" width="40" /></a>
- <a href="tel:+919582364080" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" alt="Navdeepsingh4298_signal" height="40" width="40" /></a>
- 
- 
+<a href="tel:+919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-telegram-icon.png" alt="Navdeepsingh4298_telegram" height="40" width="40" /></a>
+<a href="tel:+919582364080" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" alt="Navdeepsingh4298_signal" height="40" width="40" /></a>
 </p>
 
 <br>
