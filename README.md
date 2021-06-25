@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Navdeep Singh</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
+- I'm a 2nd year undergrad, pursuing Bachelors of Technology in Computer Science.
+- I'm currently focusing on Full Stack web development [MERN].
+- I'm currently working on contibuting to open-source projects.
+
+
 <h3>Connect with me</h3>
 <p>
 <!-- <a href="navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/letterboxd.svg" alt="navdeepsingh4298" height="30" width="30" /></a> -->
