@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
-<p style="color: red; display: flex;"> 
+<p style="display: flex;"> 
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   
