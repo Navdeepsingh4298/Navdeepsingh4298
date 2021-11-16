@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 <h2 align="center">Languages and Tools:</h2>
-<p align="left" style="display: inline;"> 
+<p align="left" style="display: flex;"> 
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mongodb.com" target="_blank">
   
