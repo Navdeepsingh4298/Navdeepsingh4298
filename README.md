@@ -41,22 +41,18 @@ Here are some ideas to get you started:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-  
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)    
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=007ACC) 
-  
+  ![Visual Studio Code](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=007ACC)   
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -92,21 +88,24 @@ Here are some ideas to get you started:
 
 <img src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="github" width="40" height="40" /> 
    
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
-</p> --> -->
+</p> --> 
 
 <br>
 
 <h2 align="center">Connect with me 🤝</h2>
 <p>
 <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>
+  
 <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>
+  
 <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>
+  
 <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
 <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="navdeepsingh4298_github"/></a>  
 <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
@@ -119,6 +118,6 @@ Here are some ideas to get you started:
 </a> 
 </p>
 <br>
-<h3> Thanks to having a look and visiting my profile.</h3>
+<h3> Thanks for having a look and visiting my profile.</h3>
 <br>
 
