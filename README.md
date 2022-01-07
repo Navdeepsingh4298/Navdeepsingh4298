@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -55,13 +54,33 @@ Here are some ideas to get you started:
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 
+<br>
+
+<h3>Connect with me 🤝</h3>
+<p>
+  <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>  
+  <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>  
+  <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>  
+  <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
+  <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="navdeepsingh4298_github"/></a>  
+  <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
+  <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="50" width="50" /></a>
+  <a href="https://wa.me/919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
+  <a href="https://t.me/Navdeepsingh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-telegram-icon.png" alt="Navdeepsingh4298_telegram" height="50" width="50" /></a>
+  <a href="https://signal.org/install/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" alt="Navdeepsingh4298_signal" height="50" width="50" /></a>
+  <a href="tel:+919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/Phone-icon.png" alt="Navdeepsingh4298_mobile" height="50" width="50" /></a> 
+</p>
+
+<br>
+<h3> Thanks for having a look and visiting my profile.</h3>
+<br>
 
 <!--   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-         ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) -->
-  <!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
-<br/>
-
-<!-- 
+       ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) -->
+<!--   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) -->
+ 
+  
+  <!-- 
 <h2 align="center">Languages and Tools:</h2>
 <p style="display: flex;"> 
   
@@ -96,27 +115,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
 </p> --> 
-
-<br>
-
-<h3>Connect with me 🤝</h3>
-<p>
-  <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>  
-  <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>  
-  <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>  
-  <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
-  <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="navdeepsingh4298_github"/></a>  
-  <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
-  <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="50" width="50" /></a>
-  <a href="https://wa.me/919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
-  <a href="https://t.me/Navdeepsingh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-telegram-icon.png" alt="Navdeepsingh4298_telegram" height="50" width="50" /></a>
-  <a href="https://signal.org/install/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" alt="Navdeepsingh4298_signal" height="50" width="50" /></a>
-  <a href="tel:+919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/Phone-icon.png" alt="Navdeepsingh4298_mobile" height="50" width="50" /></a> 
-</p>
-
-<br>
-
-<h3> Thanks for having a look and visiting my profile.</h3>
-
-<br>
-
