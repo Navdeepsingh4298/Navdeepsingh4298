@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Photoshop](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 
 
 <!--   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">Connect with me 🤝</h2>
+<h3>Connect with me 🤝</h3>
 <p>
   <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>  
   <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>  
