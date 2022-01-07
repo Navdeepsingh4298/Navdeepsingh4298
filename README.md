@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
   <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="50" width="50" /></a>
   <a href="https://wa.me/919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
+  <a href="https://wa.me/918076419693" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
   <a href="https://t.me/Navdeepsingh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-telegram-icon.png" alt="Navdeepsingh4298_telegram" height="50" width="50" /></a>
   <a href="https://signal.org/install/" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/702459?s=200&v=4" alt="Navdeepsingh4298_signal" height="50" width="50" /></a>
   <a href="tel:+919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/Phone-icon.png" alt="Navdeepsingh4298_mobile" height="50" width="50" /></a> 
