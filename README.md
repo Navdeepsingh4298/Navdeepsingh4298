@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Navdeep Singh</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
-- 🔭 I'm a 3rd year undergrad, pursuing Bachelors of Technology in Computer Science.
+- 🔭 I'm a Pre-Final year undergrad, pursuing Bachelors of Technology in Computer Science.
 - 🌱 I'm currently focusing on Full Stack web development (MERN).
 - 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/navdeepsingh4298), [Gmail](mailto:navdeepsingh4298@gmail.com)
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/navdeepsingh4298), [Gmail](mailto:navdeepsingh4298@gmail.com), [twitter](https://twitter.com/Navdeep45396086)
 - 😄 Pronouns: He/Him
 - ⚡ Fact: Web Development is not equal to Web Designing.
 
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <h3>Connect with me 🤝</h3>
 <p>
   <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>  
+  <a href="https://twitter.com/Navdeep45396086" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/twitter-icon.png" alt="navdeepsingh4298_twitter"  /></a>    
   <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>  
   <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>  
   <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
