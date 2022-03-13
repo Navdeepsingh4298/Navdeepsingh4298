@@ -63,9 +63,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Navdeep45396086" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/twitter-icon.png" alt="navdeepsingh4298_twitter"  /></a>    
   <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>  
 <!--   <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>   -->
-  <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/64/5968/5968853.png" alt="navdeepsingh4298_mail"/></a>
+  <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
   <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-github-icon.png" alt="navdeepsingh4298_github"/></a>  
-  <a href="https://gitlab.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/gitlab-icon.png" alt="navdeepsingh4298_gitlab"/></a>
+  <a href="https://gitlab.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/64/5968/5968853.png" alt="navdeepsingh4298_gitlab"/></a>
   <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
   <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="50" width="50" /></a>
   <a href="https://wa.me/919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
