@@ -54,6 +54,7 @@ Here are some ideas to get you started:
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br>
 
