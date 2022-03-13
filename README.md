@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)  
@@ -61,9 +62,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>  
   <a href="https://twitter.com/Navdeep45396086" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/twitter-icon.png" alt="navdeepsingh4298_twitter"  /></a>    
   <a href="https://instagram.com/navdeep_singh4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/instagram-icon.png" alt="navdeep_singh4298_instagram"  /></a>  
-  <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>  
+<!--   <a href="https://www.youtube.com/channel/UCY-b6fuCwQThgMuiHegkHwQ" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/youtube-icon.png" alt="ALLINONE_youtube"  /></a>   -->
   <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
   <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/github-icon.png" alt="navdeepsingh4298_github"/></a>  
+  <a href="https://gitlab.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/position-relative/social-2/64/gitlab-icon.png" alt="navdeepsingh4298_gitlab"/></a>
   <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
   <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="50" width="50" /></a>
   <a href="https://wa.me/919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
