@@ -67,6 +67,7 @@ Here are some ideas to get you started:
   <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
   <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-github-icon.png" alt="navdeepsingh4298_github"/></a>  
   <a href="https://gitlab.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/64/5968/5968853.png" alt="navdeepsingh4298_gitlab"/></a>
+  <a href="https://codepen.io/navdeepsingh4298/" target="_blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_411863.png" alt="navdeepsingh4298_codepen"/></a>  
   <a href="https://www.hackerrank.com/Navdeepsingh4298" target="_blank"><img align="center" src="https://hrcdn.net/favicon.ico" alt="Navdeepsingh4298_hacker_rank" height="50" width="50" /></a>
   <a href="https://www.hackerearth.com/@navdeep51" target="_blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="navdeep51_hacker_earth" height="50" width="50" /></a>
   <a href="https://wa.me/919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/dtafalonso/android-l/64/WhatsApp-icon.png" alt="Navdeepsingh4298_whatsapp" height="50" width="50" /></a>
