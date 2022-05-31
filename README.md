@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/navdeepsingh4298), [Gmail](mailto:navdeepsingh4298@gmail.com), [twitter](https://twitter.com/Navdeep45396086)
 - 😄 Pronouns: He/Him
 - ⚡ Fact: Web Development is not equal to Web Designing.
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8D04U1)
+
 <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 </p>
 
 <a href='https://ko-fi.com/X7X8D04U1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8D04U1)
 <br>
 <h3> Thanks for having a look and visiting my profile.</h3>
 <br>
