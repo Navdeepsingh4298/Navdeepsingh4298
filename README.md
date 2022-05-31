@@ -78,6 +78,8 @@ Here are some ideas to get you started:
   <a href="tel:+919582364080" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/Phone-icon.png" alt="Navdeepsingh4298_mobile" height="50" width="50" /></a>  -->
 </p>
 
+<a href='https://ko-fi.com/X7X8D04U1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <br>
 <h3> Thanks for having a look and visiting my profile.</h3>
 <br>
