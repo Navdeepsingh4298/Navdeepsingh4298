@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Navdeep Singh</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
-- 🔭 I'm a Pre-Final year undergrad, pursuing Bachelors of Technology in Computer Science.
+- 🔭 I'm a Final year undergrad, pursuing Bachelors of Technology in Computer Science.
 - 🌱 I'm currently focusing on Full Stack web development (MERN).
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/navdeepsingh4298), [Gmail](mailto:navdeepsingh4298@gmail.com), [twitter](https://twitter.com/Navdeep45396086)
