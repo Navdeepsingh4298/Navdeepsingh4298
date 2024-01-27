@@ -64,8 +64,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/linkedin-icon.png" alt="navdeepsingh4298_linkedin"  /></a>  
   <a href="https://twitter.com/Navdeep4298" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/twitter-icon.png" alt="navdeepsingh4298_twitter"  /></a>  
   <a href="mailto:navdeepsingh4298@gmail.com" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/uiconstock/round-papercut-social/64/email-icon.png" alt="navdeepsingh4298_mail"/></a>
-  <a href="https://github.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-github-icon.png" alt="navdeepsingh4298_github"/></a>  
-  <!-- <a href="https://gitlab.com/Navdeepsingh4298/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/64/5968/5968853.png" alt="navdeepsingh4298_gitlab"/></a> -->
 </p>
 
 <a href='https://ko-fi.com/X7X8D04U1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
