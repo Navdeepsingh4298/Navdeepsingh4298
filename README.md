@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I'm a graduated student in Bachelors of Technology in Computer Science.
 - 🌱 I'm currently focusing on Full Stack web development (MERN).
 - 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/navdeepsingh4298), [Gmail](mailto:navdeepsingh4298@gmail.com), [twitter](https://twitter.com/Navdeep45396086)
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/navdeepsingh4298), [Gmail](mailto:navdeepsingh4298@gmail.com), [twitter](https://twitter.com/Navdeep4298)
 - 😄 Pronouns: He/Him
 - ⚡ Fact: Web Development is not equal to Web Designing.
 
