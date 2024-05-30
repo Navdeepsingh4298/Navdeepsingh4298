@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 
 <a href='https://ko-fi.com/X7X8D04U1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
+Checkout [My Resume](https://drive.google.com/file/d/1f1bi3PA9dJmQPtDa3hht7VYnatVLnVyn/view?usp=drive_link)
+<br>
 <h3> Thanks for having a look and visiting my profile.</h3>
 <br>
 
